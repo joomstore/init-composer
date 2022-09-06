@@ -1,0 +1,19 @@
+{
+  "name": "joomstore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/joomstore",
+  "keywords": ["joomstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/joomstore/init-composer",
+    "issues": "https://github.com/joomstore/init-composer/issues",
+    "docs": "https://github.com/joomstore/init-composer/wiki",
+    "forum": "https://github.com/joomstore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
